@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<h3 align="left">Get To Know Me:</h3>
+
 - 🌱 I’m currently learning **Foundry Fundamentals**
 
 - 📫 How to reach me **bharathanbazhagan2008@gmail.com**
@@ -15,7 +17,7 @@
 
 - ⚡ Fun fact **I am always online 🟢**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With Me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bharath-anbazhagan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharath-anbazhagan" height="30" width="40" /></a>
 <a href="https://instagram.com/a2b_bharath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a2b_bharath" height="30" width="40" /></a>
